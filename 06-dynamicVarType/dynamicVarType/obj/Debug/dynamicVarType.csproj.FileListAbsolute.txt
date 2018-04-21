@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\dynamicVarType\dynamicVarType\bin\Debug\dynamicVarType.exe.config
+C:\Users\User\source\repos\dynamicVarType\dynamicVarType\bin\Debug\dynamicVarType.exe
+C:\Users\User\source\repos\dynamicVarType\dynamicVarType\bin\Debug\dynamicVarType.pdb
+C:\Users\User\source\repos\dynamicVarType\dynamicVarType\obj\Debug\dynamicVarType.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\dynamicVarType\dynamicVarType\obj\Debug\dynamicVarType.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dynamicVarType\dynamicVarType\obj\Debug\dynamicVarType.exe
+C:\Users\User\source\repos\dynamicVarType\dynamicVarType\obj\Debug\dynamicVarType.pdb
